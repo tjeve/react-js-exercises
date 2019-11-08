@@ -1,1 +1,1 @@
-This is a Blog that utilizes react
+This is a simple blog that utilizes react
