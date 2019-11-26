@@ -68,8 +68,11 @@ let Footer = (props) => {
 }
 
 let Blog = () => {
-    return <span><Header name="Bored Blogging" author="Terrence Eve" /><Article name="Terrence"/>
-    <Footer name="Terrence Eveline" phone="(555)555-555" email="tijaye@gmail.com"/></span>
+    return   (<span>
+                <Header name="Bored Blogging" author="Terrence Eve" />
+                <Article name="Terrence"/>
+                <Footer name="Terrence Eveline" phone="(555)555-555" email="tijaye@gmail.com"/>
+            </span>)
 }
 
 
